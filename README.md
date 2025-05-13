@@ -1,4 +1,5 @@
-# Tableau_NBA_shot_analysis
-This project analyses how players in the NBA perform at home vs away
+# NBA Shot Analysis
 
-Hope this poses though provoking questions. 
+A Tableau-based project analyzing NBA player performance across home and away games.
+
+![NBA Dashboard](./Dashboard.png)
